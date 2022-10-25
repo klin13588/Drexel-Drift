@@ -15,10 +15,11 @@ To be honest, we don't know what BBB means either, hahaha
 
 For all of the front-end assets and understanding the user inputs, please refer to the user guide below.
 
-User Guide: https://gitlab.cci.drexel.edu/fds22/7071/7071-g8/drexel-drift-bbb-studios/-/wikis/User-Guide
+User Guide: https://github.com/klin13588/Drexel-Drift/wiki/User-Guide
 
 For all functions in our program, please refer to the developer guide below.
 
-Developer Guide: https://gitlab.cci.drexel.edu/fds22/7071/7071-g8/drexel-drift-bbb-studios/-/wikis/Developer-Guide
+Developer Guide: Developer Guide: https://github.com/klin13588/Drexel-Drift/wiki/Developer-Guide
+
 
 During the initial development of Drexel Drift between January to June of 2022, we didn't use gitlab to branch and merge the projects; we maintained commits through discord channels and then pushed folders to a portable drive
