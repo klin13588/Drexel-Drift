@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: 8fc844ae6ef8e6340b45e46f45deb42f
+  - enabled: 0
+    path: Assets/Scenes/track.unity
+    guid: 77fc0799461af4bdaa44f01a3a9a90d0
+  - enabled: 1
+    path: Assets/trackWithTImer.unity
+    guid: 4e627687124790c48a3f68d55b796ebc
+  - enabled: 1
+    path: Assets/Track2.unity
+    guid: f411f3b406ac143b190eef1758643465
+  - enabled: 1
+    path: Assets/track3.unity
+    guid: 18b6e5765ebc545c596b05569bbaed2c
+  - enabled: 1
+    path: Assets/track4.unity
+    guid: 6243c1f71618d4978b3e2c2ca615e89d
+  - enabled: 1
+    path: Assets/VNCH1.unity
+    guid: 7071741f2e489924ba4fc7c04be26409
+  - enabled: 1
+    path: Assets/VNCH2.unity
+    guid: f8441f5f3488c15409d960b996e05abe
+  - enabled: 1
+    path: Assets/VNCH3.unity
+    guid: 7c6d6d2b381f9c84b9bd6d5794a782f0
+  - enabled: 1
+    path: Assets/VNCH4.unity
+    guid: c5645bd71dbaed846bef8c908cd641a4
+  m_configObjects: {}

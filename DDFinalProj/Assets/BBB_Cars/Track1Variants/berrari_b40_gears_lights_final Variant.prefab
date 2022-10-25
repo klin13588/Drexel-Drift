@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &926137738243161736
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1100929056568061390, guid: 8ec861f6f78f4b448b6af6e5611873e9, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1100929056568061390, guid: 8ec861f6f78f4b448b6af6e5611873e9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 700.3613
+      objectReference: {fileID: 0}
+    - target: {fileID: 1100929056568061390, guid: 8ec861f6f78f4b448b6af6e5611873e9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 69.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 1100929056568061390, guid: 8ec861f6f78f4b448b6af6e5611873e9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1059.8848
+      objectReference: {fileID: 0}
+    - target: {fileID: 1100929056568061390, guid: 8ec861f6f78f4b448b6af6e5611873e9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1100929056568061390, guid: 8ec861f6f78f4b448b6af6e5611873e9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1100929056568061390, guid: 8ec861f6f78f4b448b6af6e5611873e9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1100929056568061390, guid: 8ec861f6f78f4b448b6af6e5611873e9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1100929056568061390, guid: 8ec861f6f78f4b448b6af6e5611873e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1100929056568061390, guid: 8ec861f6f78f4b448b6af6e5611873e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1100929056568061390, guid: 8ec861f6f78f4b448b6af6e5611873e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1100929056568061431, guid: 8ec861f6f78f4b448b6af6e5611873e9, type: 3}
+      propertyPath: m_Name
+      value: berrari_b40_gears_lights_final
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8ec861f6f78f4b448b6af6e5611873e9, type: 3}
+--- !u!1 &260369273052205951 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1100929056568061431, guid: 8ec861f6f78f4b448b6af6e5611873e9, type: 3}
+  m_PrefabInstance: {fileID: 926137738243161736}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1647905332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 260369273052205951}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72161cf12862b417a836f30d9731475a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  start: {fileID: 0}
+  end: {fileID: 0}
+  checkpoints:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  completeLevelUI: {fileID: 0}
+  TotalLapTimeText: {fileID: 0}
+  currentLapTimeText: {fileID: 0}
+  bestLapTimeText: {fileID: 0}
+  TotalLapTimeTextF: {fileID: 0}
+  bestLapTimeTextF: {fileID: 0}
+  allTimeBestText: {fileID: 0}
+  allTimeBestTextF: {fileID: 0}
+  TotalLapTimeTMP: {fileID: 0}
+  laps: 1
+  filepath: track1time
+  allTimeBestFloat: 0
