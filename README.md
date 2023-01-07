@@ -1,4 +1,4 @@
-# Drexel Drift by BBB studios
+# Drexel Drift by BBB Studios
 
 Drexel Drift is a 3D racing game developed in Unity 3D using car assets modeled in
 Blender and tracks built using Unity plugins. 
