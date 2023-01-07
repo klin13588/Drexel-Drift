@@ -7,7 +7,7 @@ Each functioning part of the game is programmed using the C-sharp programming la
 
 ## About BBB Studios
 
-We are a group of four game-development newbies with no experience in both Untiy and C#. We wanted to challenge ourselves and learn new things through our CI102/103 project which is how we ended up developing our game, Drexel Drift.
+We are a group of four game-development newbies with no experience in both Untiy and C#. We wanted to challenge ourselves and learn new things through our CI102/103 project which is how we ended up developing our game, Drexel Drift!
 
 To be honest, we don't know what BBB means either, hahaha
 
